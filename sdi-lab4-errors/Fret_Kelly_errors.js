@@ -26,8 +26,10 @@ while (numOfCats > 0) {
         
         console.log("I've been fired!  Someone else will have to wrangle the rest!");
         
+        // added after lab was graded
+        break;
     }
-    
+        
     numOfCats--;
     
     if (numOfCats === 5) {
